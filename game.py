@@ -5,7 +5,6 @@ import os
 import getopt
 import pygame
 from socket import *
-from pygame.locals import *
 
 
 class Cursor:
